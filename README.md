@@ -63,3 +63,18 @@ nextclade dataset get --name 'nextstrain/flu/h2n2/ha' --output-dir 'nextclade_da
     ├── amended_consensus.fasta        # Високоякісні консенсусні послідовності (від MIRA 2.0)
     ├── failed_amended_consensus.fasta # Послідовності, що не пройшли QC (від MIRA 2.0)
     └── metadata.xlsx                  # Метадані зразків (обов'язкові колонки: id, variant, region, ct, collection_date, sex, age, age_units)
+```
+
+## 5. Запуск скрипта
+
+Скрипт запускається через інтерфейс командного рядка. 
+
+**Важливо:** Відкрийте термінал **безпосередньо в робочій директорії** (там, де знаходяться `process_mira.py`, `run_nextclade.sh` та папка з результатами MIRA, наприклад `RSP85`).
+
+Виконайте команду, передавши два параметри:
+1. Ідентифікатор запуску (наприклад, `85` або діапазон `85-88`).
+2. Тип секвенатора (`MiSeq` або `NextSeq`).
+
+**Приклад команди:**
+```bash
+python process_mira.py 85-88 MiSeq
