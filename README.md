@@ -14,3 +14,19 @@ conda activate flu_env
 
 # Встановлення всіх залежностей за один раз
 conda install -c conda-forge -c bioconda pandas biopython openpyxl beautifulsoup4 requests nextclade
+
+```
+
+## 2. Встановлення fluCLI
+
+Завантажте архів із бінарним файлом для Linux (або Windows чи Apple) із вашого акаунта [GISAID](https://gisaid.org/) та розпакуйте його. Відкрийте термінал у папці з файлом і виконайте:
+
+```bash
+# Надання прав на виконання та переміщення до системної директорії
+chmod +x fluCLI
+sudo mv fluCLI /usr/local/bin/
+
+# Перевірка встановлення (під час першого запуску може знадобитися авторизація)
+fluCLI help
+
+```
