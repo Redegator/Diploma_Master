@@ -30,3 +30,36 @@ sudo mv fluCLI /usr/local/bin/
 fluCLI help
 
 ```
+
+
+## 3. Налаштування Nextclade (бази даних та шляхи)
+
+Перед першим використанням пайплайну необхідно завантажити референсні датасети вірусів грипу та налаштувати конфігурацію у файлі `run_nextclade.sh`.
+
+1. **Завантаження датасетів:** Виконайте в терміналі наступні команди (їх також можна знайти закоментованими всередині `run_nextclade.sh`), щоб локально завантажити всі необхідні бази:
+```bash
+nextclade dataset get --name 'nextstrain/flu/h1n1pdm/ha/MW626062' --output-dir 'nextclade_datasets/h1n1pdm_MW626062'
+nextclade dataset get --name 'nextstrain/flu/h3n2/ha/EPI1857216' --output-dir 'nextclade_datasets/h3n2_EPI1857216'
+nextclade dataset get --name 'nextstrain/flu/b/ha/KX058884' --output-dir 'nextclade_datasets/flu_b_KX058884'
+nextclade dataset get --name 'nextstrain/flu/vic/ha/KX058884' --output-dir 'nextclade_datasets/flu_vic_KX058884'
+nextclade dataset get --name 'nextstrain/flu/yam/ha/JN993010' --output-dir 'nextclade_datasets/flu_yam_JN993010'
+nextclade dataset get --name 'nextstrain/flu/h3n2/ha/CY163680' --output-dir 'nextclade_datasets/h3n2_CY163680'
+nextclade dataset get --name 'nextstrain/flu/h1n1pdm/ha/CY121680' --output-dir 'nextclade_datasets/h1n1pdm_CY121680'
+nextclade dataset get --name 'nextstrain/flu/h1n1/ha' --output-dir 'nextclade_datasets/h1n1_ha'
+nextclade dataset get --name 'nextstrain/flu/h2n2/ha' --output-dir 'nextclade_datasets/h2n2_ha'
+```
+
+## 4. Структура файлів та папок
+
+Для коректної роботи пайплайну критично важливо дотримуватися правильної ієрархії директорій. Усі робочі файли конкретного лабораторного запуску (наприклад, `RSP85`) мають знаходитися в окремій папці поряд із виконуваними скриптами.
+
+### 📁 Вигляд директорії ДО запуску скрипта:
+
+```text
+Робоча_директорія/
+├── process_mira.py                    # Головний Python-скрипт пайплайну
+├── run_nextclade.sh                   # Bash-скрипт для локального запуску Nextclade
+└── RSP85/                             # Папка конкретного запуску (назва може бути будь-якою, що починається з "RSP")
+    ├── amended_consensus.fasta        # Високоякісні консенсусні послідовності (від MIRA 2.0)
+    ├── failed_amended_consensus.fasta # Послідовності, що не пройшли QC (від MIRA 2.0)
+    └── metadata.xlsx                  # Метадані зразків (обов'язкові колонки: id, variant, region, ct, collection_date, sex, age, age_units)
