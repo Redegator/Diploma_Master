@@ -1,0 +1,7 @@
+DATASET_TEXT
+SEPARATOR COMMA
+DATASET_LABEL,Legend
+COLOR,#000000
+DATA
+Reference viruses,,#000000,normal,24,1,0
+Vaccine viruses,,#ff0000,bold,24,1,0

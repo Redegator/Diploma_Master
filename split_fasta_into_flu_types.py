@@ -1,9 +1,7 @@
 from Bio import SeqIO
 import pandas as pd
 
-# Файли
 fasta_file = "HA_only.fasta"
-
 
 out_BH0N = open("fasta_for_trees/B_H0N1.fasta", "w")
 out_AH1N = open("fasta_for_trees/A_H1N1.fasta", "w")
@@ -12,7 +10,6 @@ out_AH3N = open("fasta_for_trees/A_H3N2.fasta", "w")
 
 records = list(SeqIO.parse(fasta_file, "fasta"))
 metadata = pd.read_csv('metadata.csv')
-
 
 
 # Отримання ідентифікаторів із fasta (після другого '/')
@@ -26,9 +23,8 @@ for record in records:
 
 
     record.id = parts[2] + '/' + region
-    record.description = "" # Це фіксить, щоб якась ще інша діч не додавалася в назву
+    record.description = ""
 
-    # Запис у файли
     if type_descriptor == 'BH0N':
         SeqIO.write(record, out_BH0N, "fasta")
     elif type_descriptor == 'AH1N':

@@ -1,0 +1,550 @@
+Region,Sample,Variant Virus,Reference,Clade,Run,collection_date,Sex,Age
+Kyiv city,2914,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-03,Female,57
+Kharkiv,2921,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-17,Female,13
+Kharkiv,2922,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-25,Female,14
+Ivano-Frankivsk,2927,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-03,Female,50
+Ivano-Frankivsk,2928,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-06,Female,2
+Sumy,2934,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-18,Female,51
+Khmelnytskyi,2941,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-09,Female,28
+Rivne,2950,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-08,Male,8
+Rivne,2953,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-02,Female,32
+Rivne,2955,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-30,Female,28
+Rivne,2956,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-30,Female,27
+Rivne,2958,B,B/Austria/1359417/2021,V1A.3a.2,13,2024-12-23,Female,40
+Ternopil,2966,B,B/Austria/1359417/2021,V1A.3a.2,13,2025-01-06,Male,11
+Chernihiv,2986,B,B/Austria/1359417/2021,V1A.3a.2,14,2024-12-30,Male,20
+Chernihiv,2987,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-06,Male,10
+Kyiv city,2990,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-21,Male,43
+Kharkiv,3000,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-13,Female,16
+Kharkiv,3003,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-21,Male,6
+Kherson,3006,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-20,Female,59
+Mykolaiv,3021,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-15,Male,19
+Vinnytsia,3050,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-08,Female,37
+Vinnytsia,3051,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-10,Male,31
+Vinnytsia,3052,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-10,Male,49
+Vinnytsia,3053,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-15,Female,34
+Vinnytsia,3054,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-17,Female,45
+Vinnytsia,3059,B,B/Austria/1359417/2021,V1A.3a.2,14,2025-01-21,Male,8
+Chernihiv,2984,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,15,2025-01-16,Female,4
+Chernihiv,2985,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,15,2025-01-20,Male,3
+Poltava,2988,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,15,2025-01-21,Male,71
+Kyiv city,2993,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,15,2025-01-20,Female,88
+Kyiv city,2994,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,15,2025-01-20,Female,75
+Vinnytsia,3062,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-30,Female,65
+Kharkiv,3071,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-28,Male,9
+Kharkiv,3073,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-28,Male,14
+Ivano-Frankivsk,3103,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-31,Male,20
+Sumy,3104,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-24,Male,29
+Sumy,3105,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-27,Male,52
+Zhytomyr,3108,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-14,Male,35
+Zhytomyr,3121,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-31,Male,26
+Chernivtsi,3129,B,B/Austria/1359417/2021,V1A.3a.2,15,2025-01-08,Female,4
+Kyiv city,2912,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2025-01-06,Female,24
+Ivano-Frankivsk,2923,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2025-01-03,Male,62
+Ivano-Frankivsk,2925,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2025-01-03,Female,47
+Ivano-Frankivsk,2926,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2025-01-06,Male,2
+Chernihiv,2936,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2024-12-12,Female,4
+Zaporizhzhia,2946,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2025-01-13,Male,25
+Rivne,2959,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,16,2024-12-20,Female,65
+Vinnytsia,2831,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,16,2024-12-27,Male,31
+Kyiv city,2872,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,16,2024-12-17,Male,20
+Kyiv city,2893,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,16,2024-12-25,Female,37
+Chernivtsi,3130,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-09,Female,40
+Chernivtsi,3132,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-11,Male,41
+Chernivtsi,3134,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-16,Male,39
+Chernivtsi,3135,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-20,Male,16
+Chernivtsi,3138,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-20,Male,46
+Chernivtsi,3141,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-27,Female,12
+Chernivtsi,3142,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-26,Male,29
+Chernivtsi,3145,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-29,Female,29
+Chernivtsi,3146,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-29,Female,32
+Zaporizhzhia,3164,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-30,Female,27
+Kyiv city,3171,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-31,Male,45
+Lviv,3186,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-28,Unknown,43
+Lviv,3188,B,B/Austria/1359417/2021,V1A.3a.2,17,2025-01-29,Male,4
+Kharkiv,3075,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,18,2025-01-27,Female,80
+Ivano-Frankivsk,3099,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,18,2025-01-29,Male,75
+Sumy,3106,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,18,2025-01-20,Male,1
+Volyn,3043,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,18,2025-01-07,Male,2
+Kharkiv,3072,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,18,2025-01-28,Male,5
+Kharkiv,3074,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,18,2025-01-27,Male,3
+Dnipropetrovsk,3084,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,18,2025-01-31,Male,23
+Dnipropetrovsk,3087,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,18,2025-01-13,Male,63
+Vinnytsia,3061,B,B/Austria/1359417/2021,V1A.3a.2,18,2025-01-27,Male,0
+Kyiv city,2997,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-15,Female,77
+Kharkiv,3004,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-20,Female,10
+Kharkiv,3005,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-20,Female,46
+Zaporizhzhia,3009,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-19,Male,58
+Zaporizhzhia,3010,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-20,Female,2
+Kherson,3007,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,20,2025-01-21,Male,30
+Zhytomyr,3107,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-14,Male,57
+Zhytomyr,3111,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-27,Female,40
+Chernivtsi,3148,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-03,Female,58
+Chernivtsi,3152,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-01-07,Male,0
+Cherkasy,3216,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-03,Female,63
+Cherkasy,3217,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-04,Female,77
+Cherkasy,3318,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-13,Male,76
+Kyiv,3369,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Female,45
+Kyiv,3370,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Male,41
+Kyiv,3372,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Female,61
+Kyiv,3374,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Male,61
+Kyiv,3376,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Male,51
+Kyiv,3377,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-17,Male,62
+Kirovohrad,3720,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,20,2025-02-21,Female,76
+Odesa,3474,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,20,2025-02-20,Male,13
+Mykolaiv,3471,B,B/Austria/1359417/2021,V1A.3a.2,20,2025-02-24,Female,8
+Mykolaiv,3013,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,23,2025-01-13,Male,6
+Mykolaiv,3017,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,23,2025-01-20,Male,4
+Volyn,3039,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,23,2025-01-02,Female,22
+Volyn,3042,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,23,2025-01-07,Male,11
+Volyn,3045,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,23,2025-01-13,Male,6
+Vinnytsia,3057,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,23,2025-01-20,Male,40
+Zaporizhzhia,3220,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,23,2025-01-23,Female,6
+Zaporizhzhia,3222,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,23,2025-01-26,Female,31
+Khmelnytskyi,3236,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,23,2025-02-10,Male,41
+Volyn,3258,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,23,2025-02-11,Male,5
+Lviv,3191,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-31,Male,29
+Lviv,3192,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-31,Male,12
+Lviv,3193,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-31,Female,39
+Lviv,3194,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-31,Male,1
+Lviv,3197,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-03,Female,23
+Lviv,3200,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-30,Male,4
+Lviv,3201,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-30,Female,1
+Lviv,3203,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-03,Male,10
+Odesa,3476,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-01-30,Male,14
+Odesa,3477,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-12,Female,36
+Odesa,3478,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-14,Female,52
+Odesa,3479,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-19,Female,22
+Odesa,3480,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-19,Female,50
+Odesa,3481,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-20,Male,23
+Odesa,3482,B,B/Austria/1359417/2021,V1A.3a.2,21,2025-02-20,Male,49
+Chernivtsi,3154,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-14,Female,66
+Chernivtsi,3155,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-20,Female,3
+Chernivtsi,3156,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-20,Male,6
+Chernivtsi,3158,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-26,Female,0
+Zaporizhzhia,3162,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-30,Male,72
+Kyiv city,3168,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-27,Female,78
+Kyiv city,3170,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-29,Male,42
+Kyiv city,3175,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-02-05,Female,65
+Lviv,3181,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-01-28,Female,12
+Lviv,3199,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-02-03,Male,39
+Lviv,3204,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,22,2025-02-03,Male,29
+Chernivtsi,3157,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-22,Female,74
+Zaporizhzhia,3163,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-29,Female,21
+Zaporizhzhia,3165,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-02-03,Female,82
+Zaporizhzhia,3166,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-02-03,Male,16
+Kyiv city,3169,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-27,Female,12
+Kyiv city,3172,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-31,Male,43
+Kyiv city,3173,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-02-03,Female,77
+Lviv,3180,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-28,Female,64
+Lviv,3183,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-28,Male,26
+Lviv,3187,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-30,Female,17
+Lviv,3202,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-02-03,Female,22
+Chernihiv,3206,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,22,2025-01-27,Male,14
+Zhytomyr,3268,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,26,2025-02-03,Male,13
+Zhytomyr,3270,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,26,2025-02-03,Male,4
+Zhytomyr,3281,H1N1,A/Wisconsin/67/2022 (H1N1)+Human adenovirus C2,6B.1A.5a.2a,26,2025-02-12,Female,7
+Kyiv,3296,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,26,2025-01-08,Male,36
+Kyiv,3298,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,26,2025-01-13,Male,54
+Volyn,3248,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-29,Male,20
+Zaporizhzhia,3265,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-02-02,Female,82
+Zaporizhzhia,3266,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-27,Female,77
+Zaporizhzhia,3267,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-26,Male,9
+Zhytomyr,3278,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-02-10,Male,15
+Zhytomyr,3279,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-02-10,Male,10
+Zhytomyr,3288,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-02-18,Female,85
+Kyiv,3295,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-08,Female,30
+Kyiv,3297,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-13,Female,55
+Kyiv,3299,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-15,Female,25
+Kyiv,3305,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-24,Female,42
+Kyiv,3307,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-27,Female,29
+Kyiv,3308,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,26,2025-01-31,Female,25
+Volyn,3243,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-27,Female,12
+Volyn,3246,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-28,Female,0
+Volyn,3262,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-16,Male,29
+Zaporizhzhia,3263,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-28,Male,9
+Zaporizhzhia,3264,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-05,Male,24
+Zhytomyr,3272,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-07,Female,7
+Zhytomyr,3275,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-07,Male,30
+Zhytomyr,3276,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-09,Female,20
+Zhytomyr,3277,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-10,Male,15
+Zhytomyr,3280,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-10,Male,2
+Zhytomyr,3282,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-11,Male,27
+Zhytomyr,3283,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-12,Male,40
+Zhytomyr,3284,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-13,Female,11
+Zhytomyr,3285,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-13,Male,12
+Zhytomyr,3286,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-13,Female,16
+Kyiv city,3291,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-02-08,Female,74
+Kyiv city,3292,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-03,Female,57
+Kyiv city,3293,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-06,Female,40
+Kyiv city,3294,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-06,Female,34
+Kyiv city,3300,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-21,Female,42
+Kyiv city,3301,B,B/Austria/1359417/2021,V1A.3a.2,27,2025-01-21,Female,33
+Cherkasy,3327,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-17,Male,50
+Zhytomyr,3348,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-17,Male,11
+Zhytomyr,3355,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-15,Male,1
+Zhytomyr,3356,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-18,Male,3
+Zhytomyr,3357,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-17,Female,3
+Zhytomyr,3358,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-16,Male,11
+Zhytomyr,3360,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-18,Male,59
+Zhytomyr,3361,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-18,Female,51
+Zhytomyr,3362,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-19,Male,6
+Zhytomyr,3363,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-20,Female,31
+Kyiv,3381,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-19,Male,69
+Kyiv,3383,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-20,Female,42
+Kyiv,3385,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,29,2025-02-20,Male,45
+Cherkasy,3325,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,29,2025-02-18,Male,54
+Chernihiv,3335,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,29,2025-02-11,Male,5
+Zhytomyr,3353,H3N2,A/Massachusetts/18/2022 (H3N2)+Human coronavirus NL63,3C.2a1b.2a.2a.3a.1,29,2025-02-18,Male,14
+Zhytomyr,3366,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,29,2025-02-20,Female,0
+Chernihiv,3210,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-29,Female,12
+Chernihiv,3211,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-02,Male,14
+Chernihiv,3213,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-03,Male,12
+Chernihiv,3214,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-06,Male,55
+Chernihiv,3215,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-07,Male,30
+Zaporizhzhia,3218,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-22,Male,36
+Zaporizhzhia,3219,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-23,Female,15
+Zaporizhzhia,3221,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-25,Male,29
+Zaporizhzhia,3223,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-28,Female,10
+Zaporizhzhia,3224,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-01-27,Male,21
+Kyiv city,3225,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-08,Female,20
+Kyiv city,3226,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-10,Female,68
+Kharkiv,3227,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-12,Female,33
+Kharkiv,3229,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-12,Female,50
+Khmelnytskyi,3232,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-07,Female,37
+Khmelnytskyi,3233,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-07,Male,3
+Khmelnytskyi,3234,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-10,Male,3
+Khmelnytskyi,3235,B,B/Austria/1359417/2021,V1A.3a.2,24,2025-02-10,Female,0
+Kyiv city,3302,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-01-22,Female,55
+Kyiv city,3303,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-01-23,Male,1
+Kyiv city,3304,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-01-23,Female,34
+Kyiv city,3306,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-01-27,Male,24
+Kyiv city,3309,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-01-28,Male,47
+Kyiv city,3310,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-03,Male,15
+Kyiv city,3311,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-03,Female,20
+Cherkasy,3323,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-18,Male,69
+Chernihiv,3336,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-08,Female,18
+Chernihiv,3337,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-09,Male,5
+Chernihiv,3342,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-18,Male,19
+Chernihiv,3343,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-17,Female,19
+Chernihiv,3344,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-17,Female,0
+Zhytomyr,3345,B,B/Austria/1359417/2021,V1A.3a.2,30,2025-02-14,Female,31
+Kyiv city,3405,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-01-22,Female,70
+Kyiv city,3411,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-05,Male,41
+Rivne,3417,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-24,Male,3
+Rivne,3420,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-12,Female,2
+Rivne,3425,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-12,Female,57
+Rivne,3431,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-01-30,Female,7
+Rivne,3438,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-10,Female,27
+Mykolaiv,3454,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-19,Female,13
+Mykolaiv,3455,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-19,Male,5
+Mykolaiv,3458,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-20,Female,2
+Mykolaiv,3459,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,31,2025-02-20,Male,10
+Chernivtsi,3392,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-12,Male,9
+Chernivtsi,3393,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-12,Male,2
+Chernivtsi,3394,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-03,Male,20
+Kyiv city,3413,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-06,Female,73
+Kyiv city,3414,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-07,Female,0
+Rivne,3419,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-01-20,Male,18
+Mykolaiv,3456,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-19,Male,13
+Mykolaiv,3457,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-20,Female,1
+Mykolaiv,3460,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-21,Male,22
+Mykolaiv,3461,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,31,2025-02-24,Male,13
+Poltava,3492,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,32,2025-02-24,Female,80
+Ivano-Frankivsk,3516,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,32,2025-02-11,Male,1
+Kherson,3693,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,32,2025-02-28,Male,44
+Poltava,3483,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-11,Female,76
+Poltava,3486,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-21,Female,20
+Poltava,3494,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-24,Male,18
+Dnipropetrovsk,3595,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-21,Male,4
+Dnipropetrovsk,3596,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-21,Male,3
+Dnipropetrovsk,3600,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-24,Male,4
+Dnipropetrovsk,3601,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-23,Male,4
+Dnipropetrovsk,3604,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-21,Male,0
+Dnipropetrovsk,3619,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-24,Female,3
+Kherson,3686,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-25,Female,16
+Kherson,3687,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-25,Male,1
+Kherson,3689,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-26,Male,59
+Kherson,3690,H3N2,A/Massachusetts/18/2022 (H3N2)+Respiratory syncytial virus (type A),3C.2a1b.2a.2a.3a.1,32,2025-02-27,Male,1
+Kherson,3692,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,32,2025-02-28,Male,31
+Zhytomyr,3351,B,B/Austria/1359417/2021+Human coronavirus OC43,V1A.3a.2,33,2025-02-17,Female,7
+Zhytomyr,3359,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-17,Female,11
+Zhytomyr,3364,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-19,Male,42
+Zhytomyr,3365,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-20,Female,10
+Kyiv,3375,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-17,Male,57
+Kyiv,3379,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-18,Male,70
+Kyiv,3391,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-17,Male,23
+Chernivtsi,3397,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-10,Female,54
+Chernivtsi,3399,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-11,Male,17
+Chernivtsi,3400,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-11,Male,30
+Chernivtsi,3403,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-17,Male,6
+Rivne,3423,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-05,Male,47
+Rivne,3427,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-01-22,Male,17
+Rivne,3429,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-01-20,Female,3
+Rivne,3433,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-01-28,Male,17
+Rivne,3436,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-01-20,Female,1
+Rivne,3441,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-18,Female,9
+Mykolaiv,3464,B,B/Austria/1359417/2021,V1A.3a.2,33,2025-02-18,Male,28
+Kyiv city,3677,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-14,Female,52
+Kyiv city,3681,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-14,Female,86
+Cherkasy,3698,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-22,Female,59
+Zaporizhzhia,3699,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-11,Male,26
+Zaporizhzhia,3700,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-12,Female,66
+Zaporizhzhia,3701,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-20,Male,33
+Zaporizhzhia,3702,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-08,Male,37
+Zaporizhzhia,3767,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-20,Female,14
+Zaporizhzhia,3768,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,35,2025-02-20,Male,41
+Kyiv city,3656,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-03-03,Female,63
+Kyiv city,3657,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-24,Male,34
+Kyiv city,3670,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-11,Female,49
+Kyiv city,3676,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-13,Female,37
+Kyiv city,3680,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-13,Female,7
+Kherson,3694,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-03-03,Male,97
+Kherson,3696,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-03-03,Male,46
+Cherkasy,3697,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-24,Female,59
+Zaporizhzhia,3703,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-08,Male,6
+Kharkiv,3748,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-26,Female,6
+Kharkiv,3749,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-26,Female,4
+Kharkiv,3750,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,35,2025-02-26,Male,0
+Zaporizhzhia,3704,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-08,Female,32
+Zaporizhzhia,3705,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-20,Male,1
+Zaporizhzhia,3706,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-20,Male,6
+Kyiv city,3655,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-03-04,Male,36
+Kyiv city,3658,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-24,Male,2
+Kyiv city,3660,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-25,Male,32
+Kyiv city,3665,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-01-27,Female,45
+Kyiv city,3668,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-01-28,Male,43
+Kyiv city,3671,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-11,Female,59
+Kyiv city,3672,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-11,Male,33
+Kyiv city,3673,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-11,Female,43
+Kyiv city,3674,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-13,Male,43
+Kyiv city,3675,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-13,Female,39
+Kyiv city,3678,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-14,Male,28
+Kyiv city,3679,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-14,Male,50
+Kirovohrad,3717,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-12,Female,23
+Kirovohrad,3718,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-13,Female,9
+Kherson,3682,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-07,Male,77
+Kherson,3685,B,B/Austria/1359417/2021,V1A.3a.2,36,2025-02-17,Male,38
+Zhytomyr,3854,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-05,Male,6
+Zhytomyr,3857,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-05,Male,8
+Zhytomyr,3859,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-05,Male,43
+Zhytomyr,3861,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-06,Female,1
+Zhytomyr,3864,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-05,Male,13
+Zhytomyr,3868,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-12,Female,24
+Zhytomyr,3870,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-12,Female,1
+Zhytomyr,3872,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-13,Male,36
+Zaporizhzhia,3903,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-01,Male,27
+Zaporizhzhia,3904,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-01,Female,30
+Zaporizhzhia,3905,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-01,Male,1
+Zaporizhzhia,3906,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-02,Female,18
+Zaporizhzhia,3907,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-02,Male,5
+Zaporizhzhia,3908,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-02,Male,11
+Zaporizhzhia,3909,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-03,Female,73
+Poltava,3898,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-10,Male,61
+Rivne,3848,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-10,Male,50
+Sumy,3875,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-10,Male,64
+Sumy,3876,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-10,Male,7
+Sumy,3877,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-07,Male,15
+Sumy,3878,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-05,Male,34
+Sumy,3879,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-03,Female,54
+Sumy,3881,B,B/Austria/1359417/2021,V1A.3a.2,40,2025-03-02,Female,6
+Dnipropetrovsk,3827,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-10,Female,8
+Zaporizhzhia,3761,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-02-19,Male,59
+Zaporizhzhia,3762,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-02-24,Male,25
+Zaporizhzhia,3763,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-02-21,Male,18
+Zaporizhzhia,3765,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-02-21,Male,34
+Zaporizhzhia,3766,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-02-23,Female,24
+Kyiv city,3728,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-03,Male,16
+Kyiv city,3731,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-05,Male,53
+Kharkiv,3754,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-03,Male,6
+Kharkiv,3755,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-04,Female,8
+Kharkiv,3756,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-04,Male,8
+Kharkiv,3757,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-04,Male,15
+Kharkiv,3758,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-04,Male,9
+Kharkiv,3759,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-04,Male,11
+Kharkiv,3760,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-03,Female,38
+Kharkiv,3836,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-11,Female,1
+Kharkiv,3837,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-11,Male,36
+Kharkiv,3838,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-11,Female,41
+Kharkiv,3839,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-12,Female,18
+Khmelnytskyi,3846,B,B/Austria/1359417/2021,V1A.3a.2,39,2025-03-17,Female,34
+Dnipropetrovsk,4039,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-05,Female,10
+Dnipropetrovsk,4041,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-07,Female,24
+Dnipropetrovsk,4043,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-05,Male,23
+Dnipropetrovsk,4044,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-10,Female,59
+Dnipropetrovsk,4047,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-13,Female,20
+Kyiv city,3972,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-24,Female,66
+Kyiv city,3971,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-25,Male,69
+Lviv,3946,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-17,Male,5
+Lviv,3947,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-17,Male,5
+Odesa,4009,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-11,Male,40
+Sumy,4000,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-26,Male,46
+Sumy,3997,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-25,Male,67
+Kherson,3981,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-11,Female,0
+Kherson,3983,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,41,2025-03-11,Female,15
+Kherson,3980,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-07,Male,31
+Kherson,3982,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-11,Male,10
+Kherson,3984,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-12,Male,1
+Kherson,3985,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,41,2025-03-14,Female,5
+Kyiv city,3935,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-18,Female,7
+Kyiv city,3936,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-17,Male,31
+Lviv,3945,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-17,Female,1
+Odesa,4007,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-10,Female,6
+Odesa,4010,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-17,Male,11
+Odesa,4017,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-13,Male,33
+Sumy,4002,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-25,Female,1
+Kherson,3986,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-14,Male,14
+Kherson,3988,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-18,Male,7
+Kherson,3989,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-20,Female,41
+Kherson,3990,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-21,Female,14
+Kherson,3991,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-21,Female,18
+Kherson,3992,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-25,Male,34
+Kherson,3995,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-26,Male,5
+Kherson,3996,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-26,Female,18
+Cherkasy,3949,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-04,Female,47
+Odesa,4018,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-13,Male,9
+Odesa,4019,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-13,Male,7
+Cherkasy,4024,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-24,Female,43
+Cherkasy,4025,B,B/Austria/1359417/2021,V1A.3a.2,43,2025-03-24,Male,4
+Dnipropetrovsk,4056,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,44,2025-03-23,Female,1
+Dnipropetrovsk,4054,H3N2,A/Massachusetts/18/2022 (H3N2),6B.1A.5a.2a,44,2025-03-19,Female,56
+Dnipropetrovsk,4065,H3N2,A/Massachusetts/18/2022 (H3N2),6B.1A.5a.2a,44,2025-03-26,Female,60
+Zhytomyr,4164,H1N1,A/Wisconsin/67/2022 (H1N1),3C.2a1b.2a.2a.3a.1,44,2025-03-21,Male,53
+Zhytomyr,4170,H1N1,A/Wisconsin/67/2022 (H1N1),3C.2a1b.2a.2a.3a.1,44,2025-03-27,Female,64
+Zhytomyr,4163,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-22,Male,0
+Zhytomyr,4166,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-26,Male,4
+Zhytomyr,4169,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-27,Female,37
+Zhytomyr,4174,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-31,Male,1
+Zhytomyr,4177,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-04-01,Male,25
+Zhytomyr,4178,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-31,Male,1
+Zhytomyr,4179,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-03-30,Female,28
+Zhytomyr,4180,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-04-01,Male,20
+Zhytomyr,4181,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-04-03,Male,34
+Zhytomyr,4183,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44,2025-04-11,Female,9
+Kyiv city,4105,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Female,50
+Kyiv city,4107,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Female,54
+Kyiv city,4108,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Male,22
+Kyiv city,4109,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Female,40
+Kyiv city,4114,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Female,36
+Kyiv city,4115,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Male,54
+Kyiv city,4116,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-03,Female,50
+Kyiv city,4117,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-04,Male,40
+Kyiv city,4119,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-04,Male,23
+Odesa,4020,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-13,Female,7
+Odesa,4021,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-20,Male,9
+Odesa,4022,B,B/Austria/1359417/2021,V1A.3a.2,46,2025-03-14,Male,6
+Zhytomyr,4152,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-18,Male,9
+Zhytomyr,4154,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-19,Male,12
+Zhytomyr,4157,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-21,Male,7
+Zhytomyr,4161,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-24,Male,36
+Zhytomyr,4162,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-24,Male,9
+Zhytomyr,4167,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-26,Male,35
+Zhytomyr,4171,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-27,Male,36
+Rivne,4131,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-24,Female,22
+Rivne,4132,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-27,Male,15
+Rivne,4136,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-04-02,Female,27
+Sumy,4221,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-10,Female,41
+Sumy,4222,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-10,Female,40
+Sumy,4223,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-17,Male,33
+Sumy,4224,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-03-18,Female,7
+Kharkiv,4140,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-04-07,Male,6
+Kharkiv,4141,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-04-07,Male,8
+Kharkiv,4143,B,B/Austria/1359417/2021,V1A.3a.2,47,2025-04-10,Male,44
+Volyn,4234,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-29,Male,15
+Kyiv city,4265,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-10,Female,21
+Kyiv city,4266,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-10,Female,22
+Kyiv city,4267,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-10,Male,61
+Kyiv city,4270,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-06,Male,43
+Kyiv city,4272,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-07,Male,48
+Kyiv,4374,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-06,Male,19
+Kyiv,4377,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-06,Female,11
+Kyiv,4378,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-04,Male,36
+Sumy,4225,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-18,Female,53
+Sumy,4226,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-06,Male,3
+Sumy,4229,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-01-13,Male,15
+Sumy,4295,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-19,Male,15
+Sumy,4296,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-18,Male,5
+Sumy,4297,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-03,Female,54
+Sumy,4299,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-03-03,Male,19
+Ternopil,4250,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-02-14,Unknown,18
+Ternopil,4251,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-02-14,Unknown,44
+Ternopil,4255,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-02-15,Unknown,18
+Chernivtsi,4326,B,B/Austria/1359417/2021,V1A.3a.2,48,2025-04-04,Male,Unknown
+Zhytomyr,4410,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-04-28,Female,2
+Zhytomyr,4412,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-04-29,Female,2
+Zhytomyr,4414,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-04-30,Female,6
+Zhytomyr,4415,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-04-30,Male,16
+Zhytomyr,4400,B,B/Austria/1359417/2021,V1A.3a.2,49,2025-04-16,Male,17
+Zhytomyr,4407,B,B/Austria/1359417/2021,V1A.3a.2,49,2025-04-20,Male,35
+Zhytomyr,4408,B,B/Austria/1359417/2021,V1A.3a.2,49,2025-04-24,Female,12
+Zhytomyr,4416,B,B/Austria/1359417/2021,V1A.3a.2,49,2025-04-30,Female,9
+Kyiv city,4356,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-03-11,Male,46
+Kyiv city,4357,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-03-11,Female,66
+Kyiv city,4355,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-03-11,Female,27
+Kyiv city,4359,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-03-12,Male,64
+Kyiv,4382,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-03-11,Female,5
+Kyiv,4392,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-04-01,Male,51
+Kyiv,4393,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-03-31,Female,32
+Kyiv,4394,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-04-01,Female,68
+Kyiv,4395,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-03-25,Female,86
+Kyiv,4391,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,49,2025-04-15,Male,3
+Ternopil,4253,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,49,2025-02-17,Female,58
+Kyiv city,4353,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,50,2025-03-11,Female,33
+Zakarpattia,4453,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,50,2025-05-02,Female,73
+Kyiv city,4349,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-03-11,Male,35
+Kyiv city,4350,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-03-11,Female,23
+Kyiv city,4354,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-03-11,Female,72
+Zhytomyr,4405,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-04-21,Male,27
+Zhytomyr,4454,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-04-27,Female,61
+Zhytomyr,4455,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-05-13,Male,32
+Zhytomyr,4456,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-05-13,Male,40
+Zhytomyr,4457,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,50,2025-05-16,Male,16
+Kyiv city,4362,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-03-13,Male,16
+Kyiv city,4363,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-03-13,Female,60
+Kyiv,4386,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-04-22,Female,Unknown
+Zhytomyr,4398,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-04-14,Male,3
+Kharkiv,4418,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-05-06,Male,20
+Zakarpattia,4447,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-04-22,Male,35
+Zakarpattia,4451,B,B/Austria/1359417/2021,V1A.3a.2,50,2025-03-14,Male,38
+Ivano-Frankivsk,3519,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-04,Female,6
+Ivano-Frankivsk,3520,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-07,Male,41
+Ivano-Frankivsk,3521,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-07,Female,33
+Ivano-Frankivsk,3522,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-10,Female,37
+Ivano-Frankivsk,3523,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-10,Female,31
+Mykolaiv,3467,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-18,Male,30
+Mykolaiv,3468,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-18,Male,35
+Mykolaiv,3469,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-21,Male,40
+Mykolaiv,3472,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-25,Female,14
+Poltava,3496,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-05,Male,48
+Poltava,3497,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-05,Male,19
+Poltava,3498,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-10,Male,61
+Poltava,3508,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-22,Male,38
+Poltava,3510,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-20,Male,19
+Poltava,3512,B,B/Austria/1359417/2021,V1A.3a.2,34,2025-02-24,Male,31
+Zhytomyr,4149,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-03-18,Female,12
+Zhytomyr,4150,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-03-19,Male,10
+Zhytomyr,4155,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-03-21,Female,7
+Zhytomyr,4158,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-03-24,Female,1
+Zhytomyr,4159,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-15,Female,68
+Zhytomyr,4160,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-18,Female,24
+Zhytomyr,4399,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-18,Female,7
+Zhytomyr,4403,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-20,Male,26
+Zhytomyr,4404,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-28,Male,3
+Zhytomyr,4411,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-04-30,Female,1
+Zhytomyr,4413,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,53,2025-05-23,Female,10
+Kyiv city,4106,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,53,2025-03-04,Female,80
+Kherson,3974,B,B/Austria/1359417/2021,V1A.3a.2,53,2025-03-06,Male,16
+Kherson,3976,B,B/Austria/1359417/2021,V1A.3a.2,53,2025-03-07,Female,0
+Kherson,3977,B,B/Austria/1359417/2021,V1A.3a.2,53,2025-03-07,Male,30
+Ternopil,2885,B,B/Austria/1359417/2021,V1A.3a.2,,2024-12-18,Female,10
+Rivne,4134,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44?,2025-03-28,Male,7
+Ternopil,2887,B,B/Austria/1359417/2021,V1A.3a.2,10,2024-12-18,Female,51
+Chernivtsi,2856,B,B/Austria/1359417/2021,V1A.3a.2,10,2024-11-27,Female,15
+Ternopil,2888,B,B/Austria/1359417/2021,V1A.3a.2,10,2024-12-18,Female,12
+Khmelnytskyi,4091,H1N1,A/Wisconsin/67/2022 (H1N1),6B.1A.5a.2a,44?,2025-03-26,Male,46
+Kharkiv,4142,H3N2,A/Massachusetts/18/2022 (H3N2),3C.2a1b.2a.2a.3a.1,44?,2025-04-07,Female,41
+Kyiv city,2863,B,B/Austria/1359417/2021,V1A.3a.2,12,2024-12-03,Male,35
+Kyiv city,2896,B,B/Austria/1359417/2021,V1A.3a.2,10,2024-12-23,Male,24
+Zaporizhzhia,3739,B,B/Austria/1359417/2021,V1A.3a.2,,2025-02-24,Male,25
+Ternopil,2879,B,B/Austria/1359417/2021,V1A.3a.2,10,2024-12-18,Female,33
+Ternopil,2881,B,B/Austria/1359417/2021,V1A.3a.2,12,2024-12-16,Female,32
