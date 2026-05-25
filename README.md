@@ -54,13 +54,13 @@ nextclade dataset get --name 'nextstrain/flu/h2n2/ha' --output-dir 'nextclade_da
 
 ```text
 Робоча_директорія/
-├── process_mira.py                    # Головний Python-скрипт пайплайну
-├── run_nextclade.sh                   # Bash-скрипт для локального запуску Nextclade
 ├── reports                            # Директорія, призначена для зберігання скриптів та шаблонів
 |       ├── bulletin_gtemplate.docx        # Базовий шаблон документа Microsoft Word
 |       └── bulletin_generator.py/         # Python-скрипт, який агрегує статистику з Excel-бази
 └── MIRA_outputs
         └── RSP85/                             # Папка конкретного запуску (назва може бути будь-якою, що починається з "RSP")
+            ├── process_mira.py                # Головний Python-скрипт пайплайну
+            ├── run_nextclade.sh               # Bash-скрипт для локального запуску Nextclade
             ├── amended_consensus.fasta        # Високоякісні консенсусні послідовності (від MIRA 2.0)
             ├── failed_amended_consensus.fasta # Послідовності, що не пройшли QC (від MIRA 2.0)
             └── metadata.xlsx                  # Метадані зразків (обов'язкові колонки: id, variant, region, ct, collection_date, sex, age, age_units)
